@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CGTemplate", "CGTemplate.vcxproj", "{D583DC30-5C2E-379A-BA07-C833B9B75F00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D583DC30-5C2E-379A-BA07-C833B9B75F00}.Debug|x64.ActiveCfg = Debug|x64
+		{D583DC30-5C2E-379A-BA07-C833B9B75F00}.Debug|x64.Build.0 = Debug|x64
+		{D583DC30-5C2E-379A-BA07-C833B9B75F00}.Release|x64.ActiveCfg = Release|x64
+		{D583DC30-5C2E-379A-BA07-C833B9B75F00}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51B567F4-F8F7-425D-8939-53AEB1CDED64}
+	EndGlobalSection
+EndGlobal

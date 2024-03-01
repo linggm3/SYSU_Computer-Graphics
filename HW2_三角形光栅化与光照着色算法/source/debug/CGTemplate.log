@@ -1,0 +1,7 @@
+﻿  Generate moc_predefs.h
+  MOC myglwidget.h
+CUSTOMBUILD : warning : Cannot open C:/Users/linggm/Desktop/21307077-???-HW3/source/debug/moc_predefs.h included by moc file myglwidget.h: ????????????????
+  moc_myglwidget.cpp
+  main.cpp
+  正在生成代码...
+  CGTemplate.vcxproj -> C:\Users\linggm\Desktop\21307077-凌国明-HW3\source\debug\CGTemplate.exe
